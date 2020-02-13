@@ -1,3 +1,7 @@
 [submodule "paystationmain-03-tzivekis-lopez-lab4"]
 	path = paystationmain-03-tzivekis-lopez-lab4
 	url = https://github.com/3296Spring2020/paystationmain-03-tzivekis-lopez-lab4.git
+[submodule "paystation-03-levitz-lopez"]
+	path = paystation-03-levitz-lopez
+	url = https://github.com/3296Spring2020/paystation-03-levitz-lopez.git
+
